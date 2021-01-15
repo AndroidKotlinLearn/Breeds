@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Breeds</string>
+    <string name="breed_empty" />
+    <string name="breed_failed">failed</string>
+</resources>
