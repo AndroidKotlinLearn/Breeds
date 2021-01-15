@@ -27,5 +27,4 @@ class BreedsActivity : AppCompatActivity() {
         return BreedsFragment.newInstance(createViewModel())
     }
 
-    }
 }
